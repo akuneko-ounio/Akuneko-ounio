@@ -1,4 +1,4 @@
-echo "# J2ME-Driver" >> README.md
+echo "# J2ME-Flutter" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
